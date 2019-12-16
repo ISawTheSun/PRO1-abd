@@ -1,0 +1,56 @@
+C:\Users\s17187\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.deps.json
+C:\Users\s17187\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.runtimeconfig.json
+C:\Users\s17187\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.runtimeconfig.dev.json
+C:\Users\s17187\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.dll
+C:\Users\s17187\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.pdb
+C:\Users\s17187\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.csprojAssemblyReference.cache
+C:\Users\s17187\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.csproj.CoreCompileInputs.cache
+C:\Users\s17187\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorAssemblyInfo.cache
+C:\Users\s17187\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorAssemblyInfo.cs
+C:\Users\s17187\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.AssemblyInfoInputs.cache
+C:\Users\s17187\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.AssemblyInfo.cs
+C:\Users\s17187\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorTargetAssemblyInfo.cache
+C:\Users\s17187\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.dll
+C:\Users\s17187\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.pdb
+C:\Users\serhi\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.deps.json
+C:\Users\serhi\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.runtimeconfig.json
+C:\Users\serhi\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.runtimeconfig.dev.json
+C:\Users\serhi\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.dll
+C:\Users\serhi\Desktop\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.pdb
+C:\Users\serhi\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.csprojAssemblyReference.cache
+C:\Users\serhi\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.csproj.CoreCompileInputs.cache
+C:\Users\serhi\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorAssemblyInfo.cache
+C:\Users\serhi\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorAssemblyInfo.cs
+C:\Users\serhi\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.AssemblyInfoInputs.cache
+C:\Users\serhi\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.AssemblyInfo.cs
+C:\Users\serhi\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorTargetAssemblyInfo.cache
+C:\Users\serhi\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.dll
+C:\Users\serhi\Desktop\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.pdb
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.deps.json
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.runtimeconfig.json
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.runtimeconfig.dev.json
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.dll
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.pdb
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.csprojAssemblyReference.cache
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.csproj.CoreCompileInputs.cache
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorAssemblyInfo.cache
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorAssemblyInfo.cs
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.AssemblyInfoInputs.cache
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.AssemblyInfo.cs
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorTargetAssemblyInfo.cache
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.dll
+C:\Users\serhi\Documents\PJATK\5\PRO1\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.pdb
+Z:\PRO abd\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.deps.json
+Z:\PRO abd\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.runtimeconfig.json
+Z:\PRO abd\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.runtimeconfig.dev.json
+Z:\PRO abd\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.dll
+Z:\PRO abd\Restauracja\Restauracja\bin\Debug\netcoreapp2.2\Restauracja.pdb
+Z:\PRO abd\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.csprojAssemblyReference.cache
+Z:\PRO abd\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.csproj.CoreCompileInputs.cache
+Z:\PRO abd\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorAssemblyInfo.cache
+Z:\PRO abd\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorAssemblyInfo.cs
+Z:\PRO abd\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.AssemblyInfoInputs.cache
+Z:\PRO abd\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.AssemblyInfo.cs
+Z:\PRO abd\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.RazorTargetAssemblyInfo.cache
+Z:\PRO abd\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.dll
+Z:\PRO abd\Restauracja\Restauracja\obj\Debug\netcoreapp2.2\Restauracja.pdb
